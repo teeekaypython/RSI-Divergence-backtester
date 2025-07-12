@@ -1,2 +1,2 @@
 # RSI-Divergence-backtester
-this is a backtester code made of the rsi divergence and it encompass of multiple assets
+A Python-powered backtesting engine that scans multiple assets for RSI divergence signals and evaluates their performance with a statistical breakdown and equity curve visualization.
